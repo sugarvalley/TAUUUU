@@ -1,11 +1,5 @@
 import static org.junit.Assert.assertEquals;
-import static org.junit.Assert.fail;
-
-import org.junit.Assert;
 import org.junit.Test;
-import main.java.GCD;
-import org.junit.runner.RunWith;
-import org.junit.runners.JUnit4;
 
 public class GCDTest {
 
